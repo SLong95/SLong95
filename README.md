@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**SLong95/SLong95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Steven Long a Project Manager and Designer. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+- Portfolio Website
+- Life Guide for young adults
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I use:
+- JIRA
+- Cofluence
+- Java / JavaScript / C#
+
+- You can reach me on my LinkedIn:
+- https://www.linkedin.com/in/steven-long-9501ab2a5/edit/forms/project/new/
