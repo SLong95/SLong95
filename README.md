@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm Steven Long a Project Manager and Designer. 
 
 - 🔭 I’m currently working on:
 - Portfolio Website
